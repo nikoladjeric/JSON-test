@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "grupa": null,
+        "naslov": "Обавештење број 1",
+        "tekst": ["Aenean id lacus quam. Nunc lacinia ut sapien in luctus. Praesent maximus, leo quis porttitor dapibus, orci tellus tincidunt urna, tempus condimentum odio urna eget leo. Quisque ac nisi aliquam, euismod orci consequat, pharetra metus. Duis iaculis libero nibh, id ornare libero gravida quis. Aenean purus leo, dignissim non leo quis, iaculis luctus orci. Curabitur non nulla vitae sem eleifend dictum. Sed eu placerat lacus, ac laoreet felis.", "Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo.", "Praesent eget euismod risus. Nullam nisl dui, vehicula id risus nec, ornare auctor libero. Suspendisse non erat vitae arcu pharetra eleifend quis eget risus. Phasellus placerat malesuada porta. Vestibulum fermentum eros eu est rhoncus, in suscipit diam malesuada. Ut lacinia diam hendrerit nulla lacinia tempor. Aenean ac est sit amet nunc pulvinar fringilla. Maecenas ultricies efficitur dictum. Phasellus nec ligula eget erat placerat eleifend sed ac ligula. Quisque mattis dolor in porttitor egestas."],
+        "slika": null,
+        "datum": "10.10.2010."
+    },
+    {
+        "id": 2,
+        "grupa": null,
+        "naslov": "Обавештење број 2",
+        "tekst": ["Praesent eget euismod risus. Nullam nisl dui, vehicula id risus nec, ornare auctor libero. Suspendisse non erat vitae arcu pharetra eleifend quis eget risus. Phasellus placerat malesuada porta. Vestibulum fermentum eros eu est rhoncus, in suscipit diam malesuada. Ut lacinia diam hendrerit nulla lacinia tempor. Aenean ac est sit amet nunc pulvinar fringilla. Maecenas ultricies efficitur dictum. Phasellus nec ligula eget erat placerat eleifend sed ac ligula. Quisque mattis dolor in porttitor egestas."],
+        "slika": null,
+        "datum": "10.10.2011."
+    },
+    {
+        "id": 3,
+        "grupa": null,
+        "naslov": "Обавештење број 3",
+        "tekst": ["Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo.", "Praesent mollis, tortor pretium fringilla scelerisque, dui elit porttitor ante, quis accumsan risus metus et urna. Vivamus lacinia sem velit, suscipit cursus libero posuere et. Quisque laoreet mi arcu, et pellentesque leo consequat ut. Donec fermentum, eros vel scelerisque feugiat, purus odio venenatis nibh, at tincidunt eros enim egestas risus. Vestibulum porttitor feugiat elit. Aliquam venenatis, ipsum quis feugiat condimentum, justo neque egestas risus, ut vehicula lacus eros non ligula. Suspendisse dignissim nulla sed diam volutpat scelerisque mattis nec nibh. Pellentesque tempus suscipit mattis. Nullam non purus elit.", "Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat."],
+        "slika": null,
+        "datum": "10.10.2012."
+    },
+    {
+        "id": 4,
+        "grupa": null,
+        "naslov": "Обавештење број 4",
+        "tekst": ["Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat.", "Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo."],
+        "slika": null,
+        "datum": "10.10.2013."
+    },
+    {
+        "id": 5,
+        "grupa": null,
+        "naslov": "Обавештење број 5",
+        "tekst": ["Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat.", "Praesent mollis, tortor pretium fringilla scelerisque, dui elit porttitor ante, quis accumsan risus metus et urna. Vivamus lacinia sem velit, suscipit cursus libero posuere et. Quisque laoreet mi arcu, et pellentesque leo consequat ut. Donec fermentum, eros vel scelerisque feugiat, purus odio venenatis nibh, at tincidunt eros enim egestas risus. Vestibulum porttitor feugiat elit. Aliquam venenatis, ipsum quis feugiat condimentum, justo neque egestas risus, ut vehicula lacus eros non ligula. Suspendisse dignissim nulla sed diam volutpat scelerisque mattis nec nibh. Pellentesque tempus suscipit mattis. Nullam non purus elit."],
+        "slika": null,
+        "datum": "10.10.2014."
+    },
+    {
+        "id": 6,
+        "grupa": null,
+        "naslov": "Обавештење број 6",
+        "tekst": ["Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo.", "Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat.", "Praesent mollis, tortor pretium fringilla scelerisque, dui elit porttitor ante, quis accumsan risus metus et urna. Vivamus lacinia sem velit, suscipit cursus libero posuere et. Quisque laoreet mi arcu, et pellentesque leo consequat ut. Donec fermentum, eros vel scelerisque feugiat, purus odio venenatis nibh, at tincidunt eros enim egestas risus. Vestibulum porttitor feugiat elit. Aliquam venenatis, ipsum quis feugiat condimentum, justo neque egestas risus, ut vehicula lacus eros non ligula. Suspendisse dignissim nulla sed diam volutpat scelerisque mattis nec nibh. Pellentesque tempus suscipit mattis. Nullam non purus elit."],
+        "slika": null,
+        "datum": "10.10.2015."
+    },
+    {
+        "id": 7,
+        "grupa": null,
+        "naslov": "Обавештење број 7",
+        "tekst": ["Praesent eget euismod risus. Nullam nisl dui, vehicula id risus nec, ornare auctor libero. Suspendisse non erat vitae arcu pharetra eleifend quis eget risus. Phasellus placerat malesuada porta. Vestibulum fermentum eros eu est rhoncus, in suscipit diam malesuada. Ut lacinia diam hendrerit nulla lacinia tempor. Aenean ac est sit amet nunc pulvinar fringilla. Maecenas ultricies efficitur dictum. Phasellus nec ligula eget erat placerat eleifend sed ac ligula. Quisque mattis dolor in porttitor egestas."],
+        "slika": null,
+        "datum": "10.10.2016."
+    },
+    {
+        "id": 8,
+        "grupa": null,
+        "naslov": "Обавештење број 8",
+        "tekst": ["Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat.", "Aenean id lacus quam. Nunc lacinia ut sapien in luctus. Praesent maximus, leo quis porttitor dapibus, orci tellus tincidunt urna, tempus condimentum odio urna eget leo. Quisque ac nisi aliquam, euismod orci consequat, pharetra metus. Duis iaculis libero nibh, id ornare libero gravida quis. Aenean purus leo, dignissim non leo quis, iaculis luctus orci. Curabitur non nulla vitae sem eleifend dictum. Sed eu placerat lacus, ac laoreet felis.", "Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo."],
+        "slika": null,
+        "datum": "10.10.2017."
+    },
+    {
+        "id": 9,
+        "grupa": null,
+        "naslov": "Обавештење број 9",
+        "tekst": ["Suspendisse tincidunt tincidunt convallis. Ut viverra, magna eu egestas tincidunt, augue risus luctus nulla, vitae fringilla odio enim eget dolor. Fusce auctor elementum nisl, et lobortis leo posuere sed. Praesent sodales lobortis nisl, mollis imperdiet sapien condimentum in. Donec nec diam at ante dapibus mollis vitae in risus. Ut euismod, ipsum rutrum congue scelerisque, purus orci fringilla elit, in efficitur leo nisi eu eros. Maecenas vel orci sed felis tristique consequat.", "Praesent mollis, tortor pretium fringilla scelerisque, dui elit porttitor ante, quis accumsan risus metus et urna. Vivamus lacinia sem velit, suscipit cursus libero posuere et. Quisque laoreet mi arcu, et pellentesque leo consequat ut. Donec fermentum, eros vel scelerisque feugiat, purus odio venenatis nibh, at tincidunt eros enim egestas risus. Vestibulum porttitor feugiat elit. Aliquam venenatis, ipsum quis feugiat condimentum, justo neque egestas risus, ut vehicula lacus eros non ligula. Suspendisse dignissim nulla sed diam volutpat scelerisque mattis nec nibh. Pellentesque tempus suscipit mattis. Nullam non purus elit."],
+        "slika": null,
+        "datum": "10.10.2018."
+    },
+    {
+        "id": 10,
+        "grupa": null,
+        "naslov": "Обавештење број 10",
+        "tekst": ["Aenean id lacus quam. Nunc lacinia ut sapien in luctus. Praesent maximus, leo quis porttitor dapibus, orci tellus tincidunt urna, tempus condimentum odio urna eget leo. Quisque ac nisi aliquam, euismod orci consequat, pharetra metus. Duis iaculis libero nibh, id ornare libero gravida quis. Aenean purus leo, dignissim non leo quis, iaculis luctus orci. Curabitur non nulla vitae sem eleifend dictum. Sed eu placerat lacus, ac laoreet felis.", "Donec finibus a eros eu tincidunt. Quisque ut leo convallis, placerat tellus interdum, hendrerit dui. Donec iaculis nulla eu tristique ullamcorper. Curabitur viverra massa sit amet suscipit congue. Nulla varius dolor eget metus pretium, sed condimentum metus interdum. Pellentesque hendrerit bibendum bibendum. Proin venenatis efficitur tellus, vitae blandit mauris vulputate quis. Sed ullamcorper dignissim gravida. Morbi sodales tincidunt dui ut tristique. Maecenas at purus non nisl volutpat vulputate vitae ac massa. Suspendisse varius bibendum massa. Proin cursus gravida lacus. Mauris a lorem ut lorem bibendum ultrices eu vel tortor. Aliquam ac gravida justo."],
+        "slika": null,
+        "datum": "10.10.2019."
+    }
+]

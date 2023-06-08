@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "grupa": "Inkluzivno-obrazovanje",
+        "naslov": "Издвајамо број 1",
+        "tekst": ["Aenean iaculis dolor et mauris suscipit finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras id suscipit justo. Aenean pellentesque, libero non eleifend malesuada, ex quam feugiat diam, et semper nisi eros id mauris. Nunc elementum nunc justo, eu euismod felis finibus et. Proin eget ante non diam sodales tincidunt vitae quis diam. Sed tristique eros in eros porttitor porttitor. Phasellus at velit arcu. Aliquam nulla massa, scelerisque quis massa eget, pretium malesuada diam. Nam sagittis lobortis eleifend. Suspendisse dignissim finibus euismod.", "Curabitur porttitor tristique dui, a elementum quam mattis at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc at est dignissim, faucibus elit id, suscipit enim. Proin faucibus nisi quis lacus pulvinar venenatis. Vivamus id leo sit amet mauris consectetur tristique. Quisque convallis diam id massa blandit, et iaculis justo feugiat. Vestibulum fermentum, nunc ac pharetra euismod, nunc lectus euismod dolor, vel tempor eros elit vel enim. Phasellus maximus metus non vehicula condimentum. Phasellus vel est venenatis, bibendum lectus a, semper est. Sed vitae venenatis massa. Aliquam sit amet ipsum ullamcorper, vestibulum nisl et, tempus est.", "Curabitur porttitor tristique dui, a elementum quam mattis at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc at est dignissim, faucibus elit id, suscipit enim. Proin faucibus nisi quis lacus pulvinar venenatis. Vivamus id leo sit amet mauris consectetur tristique. Quisque convallis diam id massa blandit, et iaculis justo feugiat. Vestibulum fermentum, nunc ac pharetra euismod, nunc lectus euismod dolor, vel tempor eros elit vel enim. Phasellus maximus metus non vehicula condimentum. Phasellus vel est venenatis, bibendum lectus a, semper est. Sed vitae venenatis massa. Aliquam sit amet ipsum ullamcorper, vestibulum nisl et, tempus est."],
+        "slika": null,
+        "datum": "4.4.1918."
+    },
+    {
+        "id": 2,
+        "grupa": "Prevencija-nasilja",
+        "naslov": "Издвајамо број 2",
+        "tekst": ["Suspendisse non lacinia elit, eget suscipit arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam molestie leo in ex aliquam interdum. Fusce nec iaculis nisi. Praesent et gravida lorem. Nulla facilisis, dolor ac rhoncus venenatis, libero tellus accumsan est, vel auctor justo risus sed magna. Etiam porttitor tempus lacus at pretium. Duis elementum neque vel volutpat laoreet. Ut elit nulla, condimentum nec dui vitae, feugiat venenatis lectus. Curabitur a facilisis lectus. Quisque gravida est quis felis posuere consectetur. Nunc lacinia, ligula sed elementum vehicula, leo lorem scelerisque purus, quis sagittis leo purus ut odio."],
+        "slika": null,
+        "datum": "5.6.1924."
+    },
+    {
+        "id": 3,
+        "grupa": "Razvojno-planiranje",
+        "naslov": "Издвајамо број 3",
+        "tekst": ["Maecenas semper lacus in quam ullamcorper, eget scelerisque neque pellentesque. Nam lorem magna, dapibus tristique turpis convallis, mollis rutrum ipsum. Etiam fermentum odio massa, et egestas augue placerat non. Curabitur porta congue purus ac blandit. In gravida sapien sed ante semper, at malesuada odio lobortis. Vivamus rutrum eros ut sem posuere, suscipit convallis metus suscipit. Curabitur nec turpis tincidunt, interdum nunc eget, ullamcorper odio. In fringilla quam turpis, a feugiat tellus ullamcorper fringilla. Quisque blandit sem eget sagittis accumsan.", "Suspendisse non lacinia elit, eget suscipit arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam molestie leo in ex aliquam interdum. Fusce nec iaculis nisi. Praesent et gravida lorem. Nulla facilisis, dolor ac rhoncus venenatis, libero tellus accumsan est, vel auctor justo risus sed magna. Etiam porttitor tempus lacus at pretium. Duis elementum neque vel volutpat laoreet. Ut elit nulla, condimentum nec dui vitae, feugiat venenatis lectus. Curabitur a facilisis lectus. Quisque gravida est quis felis posuere consectetur. Nunc lacinia, ligula sed elementum vehicula, leo lorem scelerisque purus, quis sagittis leo purus ut odio.", "Aenean iaculis dolor et mauris suscipit finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras id suscipit justo. Aenean pellentesque, libero non eleifend malesuada, ex quam feugiat diam, et semper nisi eros id mauris. Nunc elementum nunc justo, eu euismod felis finibus et. Proin eget ante non diam sodales tincidunt vitae quis diam. Sed tristique eros in eros porttitor porttitor. Phasellus at velit arcu. Aliquam nulla massa, scelerisque quis massa eget, pretium malesuada diam. Nam sagittis lobortis eleifend. Suspendisse dignissim finibus euismod."],
+        "slika": "1-stock.jpg",
+        "datum": "7.4.1932."
+    },
+    {
+        "id": 4,
+        "grupa": "Standardi-u-obrazovanju",
+        "naslov": "Издвајамо број 4",
+        "tekst": ["Maecenas semper lacus in quam ullamcorper, eget scelerisque neque pellentesque. Nam lorem magna, dapibus tristique turpis convallis, mollis rutrum ipsum. Etiam fermentum odio massa, et egestas augue placerat non. Curabitur porta congue purus ac blandit. In gravida sapien sed ante semper, at malesuada odio lobortis. Vivamus rutrum eros ut sem posuere, suscipit convallis metus suscipit. Curabitur nec turpis tincidunt, interdum nunc eget, ullamcorper odio. In fringilla quam turpis, a feugiat tellus ullamcorper fringilla. Quisque blandit sem eget sagittis accumsan.", "Ut congue est nec imperdiet mollis. Integer molestie id ex in porttitor. Donec dapibus metus non erat feugiat, in semper ligula faucibus. Aenean in volutpat magna. Donec tristique, nunc vel tempor iaculis, leo sem pellentesque massa, nec imperdiet leo felis sit amet odio. Integer commodo est feugiat nibh laoreet fringilla. Aliquam vel odio nibh. Nullam ornare ipsum a arcu consectetur pretium. Integer lacinia enim a nisl venenatis, ut commodo ante rhoncus. Nam ultricies tincidunt molestie. Aenean nibh justo, gravida vitae laoreet et, dapibus sit amet ipsum."],
+        "slika": "2-stock.jpg",
+        "datum": "19.2.1937."
+    },
+    {
+        "id": 5,
+        "grupa": "Samovrednovanje-i-vrednovanje-ustanova",
+        "naslov": "Издвајамо број 5",
+        "tekst": ["Curabitur porttitor tristique dui, a elementum quam mattis at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc at est dignissim, faucibus elit id, suscipit enim. Proin faucibus nisi quis lacus pulvinar venenatis. Vivamus id leo sit amet mauris consectetur tristique. Quisque convallis diam id massa blandit, et iaculis justo feugiat. Vestibulum fermentum, nunc ac pharetra euismod, nunc lectus euismod dolor, vel tempor eros elit vel enim. Phasellus maximus metus non vehicula condimentum. Phasellus vel est venenatis, bibendum lectus a, semper est. Sed vitae venenatis massa. Aliquam sit amet ipsum ullamcorper, vestibulum nisl et, tempus est."],
+        "slika": "3-stock.jpg",
+        "datum": "2.2.1984."
+    },
+    {
+        "id": 6,
+        "grupa": "Strucno-predagoski-nadzor",
+        "naslov": "Издвајамо број 6",
+        "tekst": ["Aenean iaculis dolor et mauris suscipit finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras id suscipit justo. Aenean pellentesque, libero non eleifend malesuada, ex quam feugiat diam, et semper nisi eros id mauris. Nunc elementum nunc justo, eu euismod felis finibus et. Proin eget ante non diam sodales tincidunt vitae quis diam. Sed tristique eros in eros porttitor porttitor. Phasellus at velit arcu. Aliquam nulla massa, scelerisque quis massa eget, pretium malesuada diam. Nam sagittis lobortis eleifend. Suspendisse dignissim finibus euismod."],
+        "slika": "4-stock.jpg",
+        "datum": "12.6.1991."
+    },
+    {
+        "id": 7,
+        "grupa": "Strucno-usavrsavanje-i-sticanje-zvanja",
+        "naslov": "Издвајамо број 7",
+        "tekst": ["Suspendisse non lacinia elit, eget suscipit arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nam molestie leo in ex aliquam interdum. Fusce nec iaculis nisi. Praesent et gravida lorem. Nulla facilisis, dolor ac rhoncus venenatis, libero tellus accumsan est, vel auctor justo risus sed magna. Etiam porttitor tempus lacus at pretium. Duis elementum neque vel volutpat laoreet. Ut elit nulla, condimentum nec dui vitae, feugiat venenatis lectus. Curabitur a facilisis lectus. Quisque gravida est quis felis posuere consectetur. Nunc lacinia, ligula sed elementum vehicula, leo lorem scelerisque purus, quis sagittis leo purus ut odio."],
+        "slika": "5-stock.jpg",
+        "datum": "2.3.2000."
+    },
+    {
+        "id": 8,
+        "grupa": "Samovrednovanje-i-vrednovanje-ustanova",
+        "naslov": "Издвајамо број 8",
+        "tekst": ["Curabitur porttitor tristique dui, a elementum quam mattis at. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc at est dignissim, faucibus elit id, suscipit enim. Proin faucibus nisi quis lacus pulvinar venenatis. Vivamus id leo sit amet mauris consectetur tristique. Quisque convallis diam id massa blandit, et iaculis justo feugiat. Vestibulum fermentum, nunc ac pharetra euismod, nunc lectus euismod dolor, vel tempor eros elit vel enim. Phasellus maximus metus non vehicula condimentum. Phasellus vel est venenatis, bibendum lectus a, semper est. Sed vitae venenatis massa. Aliquam sit amet ipsum ullamcorper, vestibulum nisl et, tempus est."],
+        "slika": "6-stock.jpg",
+        "datum": "1.1.2023."
+    }
+]
